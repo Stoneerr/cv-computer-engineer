@@ -1,0 +1,76 @@
+SANTIAGO CANABAL
+
+Software Developer | Java · Angular · Node.js
+📍 El Escorial, Madrid, Spain
+📧 santi.cr.iinf@gmail.com · 📱 +34 666 XXX XXX · 🔗 linkedin.com/in/santiago-canabal
+
+    “My goal is to build solutions that not only work but also inspire.”
+
+PROFESSIONAL SUMMARY
+
+Computer Engineer with 3 years of hands-on experience in full-stack web development at KPMG Consulting. Skilled in designing and maintaining scalable applications, APIs, and digital payment systems with modern technologies like Java (Spring Boot), Angular, and Node.js. Focused on delivering clean code, system performance, and seamless user experiences.
+PROFESSIONAL EXPERIENCE
+
+Software Developer (Senior Consultant)
+KPMG Consulting – Madrid, Spain
+📆 Jun 2022 – Present
+
+    Maintain and evolve the main IATA PAY checkout platform, enabling instant payments for airline ticket bookings across different markets and providers.
+
+    Contribute to the Customer Portal, a web platform for managing payments, refunds, merchants, users, and audits of key actions (e.g., status updates, permission changes).
+
+    Develop and maintain a payment simulation tool that replicates airline booking flows using various checkout methods: QR, Form, RTP, Script, Iframe, Redirect.
+
+    Collaborate on the design of RESTful APIs and data models, integrating them into front-end and back-end systems.
+
+    Lead the migration of multiple Angular applications, resolving legacy issues and improving performance and security (dependency upgrades, CVE resolution).
+
+    Support stakeholders by providing technical insight for feature planning, implementation, and long-term improvements.
+
+Software Development Intern
+KPMG Consulting – Madrid, Spain
+📆 Jan 2022 – Jun 2022
+
+    Built an internal web app to simulate test payments and streamline QA flows.
+
+    Enhanced the quality of backend services by adding unit tests, integration tests, and SonarQube analysis.
+
+    Gained experience in Agile teams and collaborated in production-grade systems from day one.
+
+EDUCATION
+
+Bachelor’s Degree in Computer Engineering
+Polytechnic University of Madrid
+📆 Sep 2017 – Jun 2022
+
+    Focus on software engineering, data structures, algorithms, databases, and systems design.
+
+Technical Science Baccalaureate
+Gredos San Diego School – El Escorial
+📆 Sep 2015 – Jun 2017
+
+    Advanced coursework in mathematics, physics, and computer science.
+
+TECHNICAL SKILLS
+Area	Technologies & Tools
+Languages	Java, TypeScript, JavaScript, Python, Lua
+Backend	Java (Spring Boot), Node.js (Express), REST APIs, Microservices, SQL, WebSockets
+Frontend	Angular (Signals, RxJS, Standalone), React, HTML, CSS, SASS
+Testing	Jest, JUnit, AssertJ, Mockito
+Principles	OOP, SOLID, Design Patterns, Reactive Programming
+Tools	Git, Jira, IntelliJ, VSCode, Neovim, NVM, Bitbucket, SonarQube, Markdown, JSON
+Workflow	Git Flow, Agile (Scrum), Conventional Commits, CI/CD pipelines
+OS & Scripts	Linux, Zsh, Shell scripting, NPM
+CERTIFICATIONS
+
+    B2 Certificate in English – Cambridge (2022)
+
+    EURO-INF Quality Label – ANECA (2022)
+
+    ABET Accreditation – ABET (2022)
+
+LANGUAGES
+
+    Spanish – Native
+
+    English – B2 (Cambridge Certified)
